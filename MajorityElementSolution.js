@@ -17,5 +17,6 @@
 
 - Sort the array in ascending order.
 - If the array length is odd, return the middle element.
+- If the array length is even, return the average of the middle two elements.
 
 */
