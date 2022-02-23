@@ -8,5 +8,7 @@
 
     if (l % 2 === 0) {
         return nums[l / 2]
+      } else {
+        
       }
   };
