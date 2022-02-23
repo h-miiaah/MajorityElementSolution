@@ -5,4 +5,8 @@
  var majorityElement = function(nums) {
     nums.sort((a, b) => a - b);
     const l = nums.length;
+
+    if (l % 2 === 0) {
+        
+      }
   };
