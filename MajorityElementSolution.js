@@ -16,5 +16,6 @@
 /*
 
 - Sort the array in ascending order.
+- If the array length is odd, return the middle element.
 
 */
